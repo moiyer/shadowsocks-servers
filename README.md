@@ -18,6 +18,7 @@
 ### 3.付费网站
 > 免费的资源很难找，而且经常失效换密码，有`稳定需求`的还是用付费的吧！
 
+* [咻一下](http://www.nohabitat.com/)
 * [shadowsocks](https://portal.shadowsocks.com/cart.php)
 * [半支烟](https://bzy.me/)
 * [枫叶主机](https://www.fyzhuji.com/cart.php)
