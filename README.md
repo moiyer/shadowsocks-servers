@@ -18,13 +18,12 @@
 ### 3.付费网站
 > 免费的资源很难找，而且经常失效换密码，有`稳定需求`的还是用付费的吧！
 
-* [咻一下](http://www.nohabitat.com/)
-* [shadowsocks](https://portal.shadowsocks.com/cart.php)
+* [ssh91](https://my.ssh91.net/aff.php?aff=617) （流量多 10/月 或 流量少，15/年）
+* [得自由](http://devpn.info/oau3av) (科学上网后访问，7/月)
+* [ssccsu](https://www.ssccsu.com/) (100/年)
+* [咻一下](http://www.nohabitat.com/) 
 * [半支烟](https://bzy.me/)
 * [枫叶主机](https://www.fyzhuji.com/cart.php)
-* [vpnbook](http://www.vpnbook.com/)
-* [ssccsu](https://www.ssccsu.com/)
-* [SkyNet](http://xget.cn/?v=12M3NmZhMWE0ZjI1ZjYyZTBlYj)
 
 ### 4.写在后面
 > 上面所列出的网址，部分使用过，很多也没有用过，收藏在这里，和大家分享。<br>
